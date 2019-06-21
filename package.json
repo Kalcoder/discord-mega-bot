@@ -1,0 +1,23 @@
+{
+  "name": "discord-hack-week-june-2019",
+  "version": "1.0.0",
+  "description": "A Discord bot created for Hack Week - June 2019",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalcoder/discord-mega-bot.git"
+  },
+  "author": "sh0ck#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalcoder/discord-mega-bot/issues"
+  },
+  "homepage": "https://github.com/Kalcoder/discord-mega-bot#readme"
+}
